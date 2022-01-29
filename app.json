@@ -1,8 +1,8 @@
 {
-    "name": "KyyMusic",
+    "name": "MinnieMusic",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/muhamadrizky16/KyyMusic",
+    "repository": "https://github.com/MickeyxD/MinnieMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -47,12 +47,12 @@
         "GROUP": {
             "description": "Isi dengan username group tanpa @",
             "required": true,
-            "value": "NastySupportt"
+            "value": ""
         },
          "CHANNEL": {
             "description": "Isi dengan username channel tanpa @",
             "required": true,
-            "value": "NastyProject"
+            "value": "MissMinnie_News"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
@@ -71,7 +71,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "If you dont know this, Leave as it is",
-            "value": "https://github.com/muhammadrizky16/KyyMusic",
+            "value": "https://github.com/MickeyxD/MinnieMusic",
             "required": true
         },
         "UPSTREAM_BRANCH": {
