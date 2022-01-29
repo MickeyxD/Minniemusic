@@ -1,4 +1,4 @@
-<h2 align="centre">Kyy Music Player</h2>
+<h2 align="centre">Minnie Music Player</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/37e7781a4a5d5875c8cb3.jpg">
@@ -50,8 +50,8 @@
 </h2>
 
 <p align="center">
-<a href="https://railway.app/new/template?template=https://github.com/muhammadrizky16/KyyMusic&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2CSESSION_NAME%2CSUDO_USERS%2COWNER_ID%2CDURATION_LIMIT%2CCHANNEL%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CASS_ID%2CGROUP&optionalEnvs=CHANNEL%2CGROUPCSUPPORT_CHANNEL%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CASSISTANT_PREFIX%2CMUSIC_BOT_NAME%2CSUPPORT_GROUP&optionalEnvs=SUPPORT_CHANNEL%2CSUPPORT_GROUP"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="252""/</a>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/muhammadrizky16/Music-Deploy"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://railway.app/new/template?template=https://github.com/MickeyxD/MinnieMusic&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2CSESSION_NAME%2CSUDO_USERS%2COWNER_ID%2CDURATION_LIMIT%2CCHANNEL%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CASS_ID%2CGROUP&optionalEnvs=CHANNEL%2CGROUPCSUPPORT_CHANNEL%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CASSISTANT_PREFIX%2CMUSIC_BOT_NAME%2CSUPPORT_GROUP&optionalEnvs=SUPPORT_CHANNEL%2CSUPPORT_GROUP"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="252""/</a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/MickeyxD/Music-Deploy"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 <a href="https://telegram.dog/XTZ_HerokuBot?start=bXVoYW1tYWRyaXpreTE2L0t5eU11c2ljIG1hc3Rlcg"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 ## Credits
@@ -64,7 +64,7 @@
 - PyTgCalls
 
 #### Contributors
-- [Kyy](https://github.com/muhammadrizky16): Nasty Owner
+- [Kyy](https://github.com/MickeyxD): Nasty Owner
 - [KenKan](https://github.com/kenkansaja): Contributor
 - [xD_ShaShank](https://github.com/theshashankk): Yukki Dev
 - [VegetaxD](http://github.com/VegetaxD): Yukki Owner 
@@ -98,4 +98,4 @@ YukkiMusicPlayer is a modified version of [Callsmusic](https://github.com/callsm
 > Special thanks to you for using bot
 
 ### Support & Updates 
-<a href="https://t.me/NastySupportt"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/NastyProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Support"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/NastyProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
